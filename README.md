@@ -48,6 +48,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/rogerdev1/rogerdev1/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/rogerdev1/rogerdev1/main/snake.svg" alt="Snake animation" />
 
 ###
