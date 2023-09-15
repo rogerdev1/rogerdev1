@@ -1,6 +1,10 @@
 <h2 align="left">Olá, Meu nome é Roger Vasconcelos e sou Desenvolvedor Front-End!</h2>
 
-###
+Desenvolvedor Front-End e Graduando em Análise e Desenvolvimento De Sistemas.
+
+Possuo domínio com JavaScript, Typescript, React.js, JQuery, Bootstrap5 e SQL, mas tenho forte conhecimento em Node.js, Angular, PHP e Python.
+
+Do Design ao Deploy. Desenvolvo interfaces eficientes, seguras e responsivas, com construção da lógica, através do Node.js ou PHP, com códigos limpos e foco no Mobile First.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rogerdev1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
