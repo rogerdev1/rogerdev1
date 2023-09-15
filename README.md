@@ -1,4 +1,4 @@
-<h2 align="left">Olá, Meu nome é Roger Vasconcelos e sou Desenvolvedor Front-End!</h2>
+<h2 align="left">Olá, Meu nome é Roger Vasconcelos!</h2>
 
 Desenvolvedor Front-End e Graduando em Análise e Desenvolvimento De Sistemas.
 
