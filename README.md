@@ -1,15 +1,27 @@
 <h2 align="left">Olá, Meu nome é Roger Vasconcelos!</h2>
 
-Desenvolvedor Front-End e Graduando em Análise e Desenvolvimento De Sistemas.
+<div align="center">
+    <img src="https://cdn.worldvectorlogo.com/logos/salesforce-2.svg" height="80" alt="salesforce logo"  />
+    <img src="https://www.vectorlogo.zone/logos/mulesoft/mulesoft-ar21.svg" height="90" alt="mulesoft logo" /><br><br>
+</div>
 
-Possuo domínio com JavaScript, Typescript, React.js, JQuery, Bootstrap5 e SQL, mas tenho forte conhecimento em Node.js, Angular, PHP e Python.
 
-Do Design ao Deploy. Desenvolvo interfaces eficientes, seguras e responsivas, com construção da lógica, através do Node.js ou PHP, com códigos limpos e foco no Mobile First.
+<div align="justify">
+    Desenvolvedor Salesforce com sólida experiência em Apex, Lightning Web Components (LWC), Flow, e integração de APIs RESTful. Especialista em MuleSoft para integração de sistemas, utilizando DataWeave e operações avançadas de SQL para manipulação e otimização de dados. Experiência em desenvolvimento de soluções personalizadas, automação de processos e construção de APIs escaláveis para melhorar a eficiência dos negócios.<br><br>
+    Durante 8 anos no Exército Brasileiro, atuei como Auxiliar Administrativo, gerenciando processos internos e instruindo equipes.<br><br>
+
+Perfil proativo, orientado a resultados e comprometido com a entrega de soluções de alta qualidade, sempre buscando aprendizado e desenvolvimento contínuo.
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rogerdev1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rogerdev1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+###
+
+
+
 
 ###
 
@@ -24,7 +36,9 @@ Do Design ao Deploy. Desenvolvo interfaces eficientes, seguras e responsivas, co
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" height="80" alt="salesforce logo"  />
   <img width="15" />
-  <img src="https://www.vectorlogo.zone/logos/mulesoft/mulesoft-ar21.svg" height="80" alt="salesforce logo" />
+  <img src="https://www.vectorlogo.zone/logos/mulesoft/mulesoft-ar21.svg" height="80" alt="mulesoft logo" />
+  <img width="15" />
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrfcXt_Jhg1GSAGbdQWWlpAmyGWgg7xMdOQ-2jVX9u7k7vrrSsaV9tJLjtanU4V7UfYjeUU-Z-mCwwckJ0cRpinSbN5vZ9rBSnOSoIhGjyw8DsOjQtLlIyhWJ0YAy_Fv14YYD6Nc7zwAU/w1200-h630-p-k-no-nu/lightning-web-components-min.jpg" height="80" alt="salesforce logo" />
 </div>
 
 ###
@@ -37,6 +51,9 @@ Do Design ao Deploy. Desenvolvo interfaces eficientes, seguras e responsivas, co
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
+
+###
+
 
 ###
 <div align="center">
